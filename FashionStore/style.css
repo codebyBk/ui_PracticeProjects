@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.items img{
+    height: 20vh;
+    width: 10vw;
+}
